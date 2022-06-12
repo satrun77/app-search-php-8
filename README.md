@@ -1,4 +1,8 @@
-> **⚠️ This client is deprecated ⚠️**
+> **⚠️ This client is abandoned ⚠️**
+>
+> This package is here purely to serve the [Elastic App Search](https://github.com/elastic/app-search-php) with PHP 8 as an allowed platform requirement
+>
+> All credit and praise goes to the contributors of [Elastic App Search](https://github.com/elastic/app-search-php)
 >
 > As of Enterprise Search version 7.13.0, we are directing users to the new [Enterprise Search PHP Client](https://github.com/elastic/enterprise-search-php) and
 > deprecating this client.
